@@ -32,13 +32,12 @@
 
 ### Semiconductor Process
 - Photolithography  
-- PVD (DC Sputtering)  
-- Lift-off  
+- Deposition
+- Etching
 
 ### CAD & Design
 - AutoCAD  
 - SolidWorks  
-- Chitubox  
 
 ### Simulation & Modeling
 - COMSOL  
@@ -47,14 +46,9 @@
 
 ### Programming
 - Python  
-- C  
+- C++ 
 - Matlab  
-
-### Others
-- Dimatix Materials Printer  
-- Phrozen 3D Printer  
-- JMP (Statistical Software)  
-
+- Javascripts
 ---
 
 ## Language Proficiency

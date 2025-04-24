@@ -13,7 +13,7 @@ import Contact from './pages/Contact'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/React-demo_personal-website">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
