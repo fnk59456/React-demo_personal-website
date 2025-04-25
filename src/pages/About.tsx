@@ -1,6 +1,8 @@
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
 import { Download, Mail, Phone, GraduationCap, User, Briefcase, FileCode } from "lucide-react";
+import HeadshotImage from "@/assets/Headshot.jpg";
+
 
 export default function About() {
   return (
@@ -71,7 +73,7 @@ export default function About() {
         <section className="space-y-8">
           <div className="rounded-lg border bg-card shadow-sm p-6 overflow-hidden">
             <div className="aspect-square w-full rounded-lg overflow-hidden mb-6">
-              <img src="/image/Headshot.jpg" 
+              <img src={HeadshotImage} 
                   alt="Tzu-Yi Hsu" 
                   className="w-full h-full object-cover" />
             </div>
